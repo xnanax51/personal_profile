@@ -58,23 +58,17 @@ const CONFIG = {
   },
   social: {
     linkedin: 'xnanax51',
-    researchGate: '',
-    facebook: '',
     instagram: '',
     reddit: '',
-    threads: '',
-    youtube: '', // example: 'pewdiepie'
+    youtube: '', // example: 'Nana Wang'
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
     dev: 'arifszn',
     stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://www.arifszn.com',
+    website: 'https://nanas-fantastic-site-349e1c.webflow.io/',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: '',
   },
   resume: {
     fileUrl:
@@ -122,10 +116,10 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
+      institution: 'University of Washington',
       degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      from: '2021',
+      to: '2024',
     },
     {
       institution: 'Institution Name',
