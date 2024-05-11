@@ -59,13 +59,7 @@ const CONFIG = {
   social: {
     linkedin: 'xnanax51',
     instagram: '',
-    reddit: '',
     youtube: '', // example: 'Nana Wang'
-    udemy: '',
-    dribbble: '',
-    behance: '',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
     website: 'https://nanas-fantastic-site-349e1c.webflow.io/',
     phone: '',
     email: '',
@@ -75,20 +69,9 @@ const CONFIG = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+    'phthon',
     'MySQL',
-    'PostgreSQL',
     'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
   ],
   experiences: [
     {
@@ -122,10 +105,10 @@ const CONFIG = {
       to: '2024',
     },
     {
-      institution: 'Institution Name',
+      institution: 'Prospect High School',
       degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      from: '2019',
+      to: '2020',
     },
   ],
   publications: [
