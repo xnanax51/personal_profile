@@ -69,7 +69,7 @@ const CONFIG = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'phthon',
+    'python',
     'MySQL',
     'Git',
   ],
@@ -100,13 +100,13 @@ const CONFIG = {
   educations: [
     {
       institution: 'University of Washington',
-      degree: 'Degree',
+      degree: 'Bachelor's Degree',
       from: '2021',
       to: '2024',
     },
     {
       institution: 'Prospect High School',
-      degree: 'Degree',
+      degree: 'High School Degree',
       from: '2019',
       to: '2020',
     },
