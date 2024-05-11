@@ -100,7 +100,7 @@ const CONFIG = {
   educations: [
     {
       institution: 'University of Washington',
-      degree: 'Bachelor's Degree',
+      degree: 'Degree',
       from: '2021',
       to: '2024',
     },
