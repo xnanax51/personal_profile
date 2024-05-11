@@ -53,13 +53,13 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Nana Wang',
-    description: '',
+    description: 'Nana Wang',
     imageURL: '',
   },
   social: {
     linkedin: 'xnanax51',
     instagram: '',
-    youtube: '', // example: 'Nana Wang'
+    youtube: 'https://www.youtube.com/@nanawangfiveone',
     website: 'https://nanas-fantastic-site-349e1c.webflow.io/',
     phone: '',
     email: '',
@@ -116,8 +116,8 @@ const CONFIG = {
       title: 'Publication Title',
       conferenceName: '',
       journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      authors: 'Nana Wang',
+      link: 'http://depts.washington.edu/ecnboard/wordpress/wp-content/uploads/2024/01/Economizer_Autumn_2023-compressed.pdf',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
     },
